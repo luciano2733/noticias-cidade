@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 68.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/css/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/nova-legislacao.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/brasil.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/economia.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/fotos.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/internacional.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/saude.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/noticias-cidade/ciencia.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Notícias cidade/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/treino/tabelas.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/treino/css/estilo.css",
+		"/C/Users/Luciano/Desktop/chale-hotel/index.html",
+		"/C/Users/Luciano/Desktop/chale-hotel/css/tabelas.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/treino/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/treino/sobre.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/treino/noticias.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Treino/navegacao-vertical.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Treino/css/estilo.css",
+		"/C/Users/Luciano/Desktop/Portifólio/TecBlog/navegacao-vertical.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Herança e especifidade/estilo/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Herança e especifidade/heranca.html",
+		"/C/Users/Luciano/Desktop/Portifólio/TecBlog/css/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Herança e especifidade/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/css3 intermediário e avançado/Treinar/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/css3 intermediário e avançado/Treinar/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/css3 intermediário e avançado/seletores.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/css3 intermediário e avançado/css/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/TecBlog/css/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/TecBlog/index.html",
+		"/C/Users/Luciano/Desktop/Portifólio/LightHabbo/index.html",
+		"/C/Users/Luciano/Desktop/Portifólio/LightHabbo/estilo.css",
+		"/C/Users/Luciano/Desktop/Portifólio/LightHabbo/javascript.js",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3 intermediário/elementos-flutuante-pratica.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/LightHabbo/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/LightHabbo/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/novo/galeria.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/novo/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/novo/fotos.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/novo/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoAnnaBella/campanhas-publicitarias.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoAnnaBella/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3 intermediário/links.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3 intermediário/posicionamentos.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3 intermediário/elementos-flutuante.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3 intermediário/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3 intermediário/modelo-caixa.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoAnnaBella/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoAnnaBella/contato.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/estilo.css",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/pagina2.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/pagina1.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/tamanhos-textos.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/bordas.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/div-span.html",
+		"/C/Users/Luciano/Desktop/Trabalho de inglês/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/classes-ids.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoCSS3/inline_style.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoHtml/Contato.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoFinalHtml/contato.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoHtml/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoHtml/quem-somos.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/ProjetoFinalHtml/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Primeiro Projeto/index.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Primeiro Projeto/contato.html",
+		"/C/Users/Luciano/Desktop/WEB 2.0/Primeiro Projeto/projeto.html",
+		"/C/Users/Luciano/Desktop/Projeto Web/js/bootstrap.js",
+		"/C/Users/Luciano/Desktop/Projeto Web/index.html",
+		"/C/Users/Luciano/Desktop/Projeto Aula/estilos/estilo-teste.css",
+		"/C/Users/Luciano/Desktop/Projeto Aula/index.html",
+		"/C/Users/Luciano/Desktop/Projeto Aula/css/estilo.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "brasil.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
